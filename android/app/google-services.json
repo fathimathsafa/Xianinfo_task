@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21559201865",
+    "project_id": "cmtask-6115c",
+    "storage_bucket": "cmtask-6115c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21559201865:android:79a7a92a2462b93e046f98",
+        "android_client_info": {
+          "package_name": "com.cmtask.cm_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcaEO8JVS6N9Z759CN7AZaN2cGTaJpsQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
